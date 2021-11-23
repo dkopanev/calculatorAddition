@@ -1,1 +1,1 @@
-Taschenrechner nur mit Addition
+Taschenrechner mit + - * /
