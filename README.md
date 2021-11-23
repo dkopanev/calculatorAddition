@@ -1,0 +1,1 @@
+Taschenrechner nur mit Addition
